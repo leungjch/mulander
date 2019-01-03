@@ -1,0 +1,36 @@
+--------------------------------------------MULANDER GAME INFORMATION------------------------------------------------------------------------
+
+Help Mulan land on as many parts of the Mun possible, safely!
+
+In order to land, Mulan needs to fulfill the following three conditions:
+1) Mulan can only land on landing zones that mission control has coloured in BRIGHT YELLOW.
+2) Mulan cannot land TOO QUICKLY on the landing zone.
+3) Mulan must be UPRIGHT when landing on the landing zone.
+
+It is up to you to correctly read Mulan's sensor instruments (fuel, speed, heading, speed) to successfully explore the Mun.
+If you fail either of these conditions, the mission is a failure!
+
+In the duration of your descent, you must be careful to not run out of FUEL.
+But don't worry, you will REFUEL when you land on a landing zone.
+Also, the score in MULANDER is determined by how many landing zones you land on.
+
+When you move off the right or left edge of your screen, mission control will recalibrate Mulan's sensors to be able to view more of the Mun.
+But don't try to go back into space - you're going to go out of bounds and make mission control angry!
+
+Mulan will leave a trail of smoke as you pilot around the Mun. The smoke will become bigger as Mulan moves faster, and it will 
+become smaller when Mulan is slowing down.
+
+MULANDER will be a little different every time you play. Here are some examples:
+-The gravity on the Mun will vary, making Mulan feel very heavy or very light to control.
+-The size of the landing zones will vary, making the task of landing more (or less) difficult.
+-Mulan's starting direction will vary, which may require more (or less) turning around when preparing to descend.
+-Mulan's starting vertical and horizontal speed will vary, which may require you to slow down more (or less) when descending.
+-The surface of the Mun will vary in smoothness (or spikiness) in every game session.
+
+--------------------------------------------------GAME CONTROLS-----------------------------------------------------------------------------
+Up Arrow Key ----- Accelerate in Mulan's CURRENT DIRECTION by engaging Mulan's thrusters.
+Left Arrow Key --- Turn Mulan CLOCKWISE (move Mulan's heading to the left).
+Right Arrow Key -- Turn Mulan COUNTERCLOCKWISE (move Mulan's heading to the right).
+
+
+Created by Justin Leung.
